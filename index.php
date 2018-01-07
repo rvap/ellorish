@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 
-<title>Welcome to web game - by ellorish 2</title>
+<title>Welcome to web game - by ellorish master branch</title>
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
